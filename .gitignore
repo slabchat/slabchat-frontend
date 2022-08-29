@@ -1,0 +1,13 @@
+# distribution
+node_modules/
+dist/
+build/
+.routify/
+.turbo
+
+# environment
+.vscode/
+.DS_Store
+*.env*
+!*.env.example
+*.log*
